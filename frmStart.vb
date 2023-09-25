@@ -89,6 +89,6 @@ Public Class frmStart
     End Sub
 
     Private Sub Guna2TextBox1_TextChanged(sender As Object, e As EventArgs) Handles txtLogUsername.TextChanged
-
+        'KOMEN
     End Sub
 End Class
